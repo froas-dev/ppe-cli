@@ -1,0 +1,9 @@
+Metadata-Version: 2.4
+Name: ppecli
+Version: 0.1.0
+Summary: Python Ping with Emoji 
+Author-email: Froas <froas.dev@gmail.com>
+Description-Content-Type: text/markdown
+License-File: LICENCE
+Requires-Dist: requests
+Dynamic: license-file
